@@ -1,0 +1,3 @@
+/home/lewang/algorithm018/week01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lewang/algorithm018/week01/cmake-build-debug/CMakeFiles/plusone.dir
+/home/lewang/algorithm018/week01/cmake-build-debug/CMakeFiles/edit_cache.dir
