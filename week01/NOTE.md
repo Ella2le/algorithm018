@@ -44,11 +44,47 @@ https://www.zhihu.com/question/20202931
 #实战练习
 **五毒神掌**  
 
-##Array
-1.move zeros  
-要检查输入
-执行代码的时候尝试输入一下特殊的数字  
+##Array   
 
+1. 3sum  
+排序+双指针   
+时间复杂度 O(n<sup>2</sup>)  
+空间复杂度  
+2. plusone
+**要考虑清楚问题,弄懂数据的各个不同小问题**
+如果+1<10 不用进位  
+如果是9,则会=10,需要进位  
+如果都是9则还需要在首位多一位1,ex: 999+1=1000  
+
+3. watercontainer  
+双指针夹逼  
+时间复杂度 O(n<sup>2</sup>)  
+空间复杂度  
+**Note** vector<T>::size() 的返回值是siz_t,是無符號的整形.如果題目是一個空的vector,那麼vector的长度是0,
+此时nums.size() -1 就会导致整型下溢,此时在for循环中  
+for(int i = 0; i < nums.size()-1; i++)  
+就是i在和一个非常大的数对比,导致越界.  
+正确的做法是  
+for(int i=0; i < int(nums.size() -1 ); i++)
+
+4. climbstair
+斐波那契数列  
+时间复杂度 O(n<sup>2</sup>)  
+空间复杂度  
+f(n) = f(n-1) + f(n-2)
+变型问题:不能连续两次走2不
+f(n) = f(n-1) + f(n-3)
+
+6.  move zeros  
+index + for loop  
+时间复杂度 O(n<sup>2</sup>)  
+空间复杂度  
+要检查输入
+执行代码的时候尝试输入一下特殊的数字
+
+
+
+  
 #一些疑问
 1. 循环中使用++i和i++有没有区别
 关于i++和++i是先返回再计算还是先计算再返回部分已经理解;
@@ -57,5 +93,6 @@ https://www.zhihu.com/question/20202931
 for ( int i, i < n, i++)  
 for ( int i, i < n, ++i)  
 有没有区别?  
+在leetcode上测试过了,for loop中都可以
 
 2.  
