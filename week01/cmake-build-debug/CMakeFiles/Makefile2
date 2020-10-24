@@ -65,39 +65,39 @@ CMAKE_SOURCE_DIR = /home/lewang/algorithm018/week01
 CMAKE_BINARY_DIR = /home/lewang/algorithm018/week01/cmake-build-debug
 
 #=============================================================================
-# Target rules for target CMakeFiles/plusone.dir
+# Target rules for target CMakeFiles/trapping_rain_water.dir
 
 # All Build rule for target.
-CMakeFiles/plusone.dir/all:
-	$(MAKE) -f CMakeFiles/plusone.dir/build.make CMakeFiles/plusone.dir/depend
-	$(MAKE) -f CMakeFiles/plusone.dir/build.make CMakeFiles/plusone.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/lewang/algorithm018/week01/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target plusone"
-.PHONY : CMakeFiles/plusone.dir/all
+CMakeFiles/trapping_rain_water.dir/all:
+	$(MAKE) -f CMakeFiles/trapping_rain_water.dir/build.make CMakeFiles/trapping_rain_water.dir/depend
+	$(MAKE) -f CMakeFiles/trapping_rain_water.dir/build.make CMakeFiles/trapping_rain_water.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/lewang/algorithm018/week01/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target trapping_rain_water"
+.PHONY : CMakeFiles/trapping_rain_water.dir/all
 
 # Include target in all.
-all: CMakeFiles/plusone.dir/all
+all: CMakeFiles/trapping_rain_water.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/plusone.dir/rule: cmake_check_build_system
+CMakeFiles/trapping_rain_water.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/lewang/algorithm018/week01/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/plusone.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/trapping_rain_water.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/lewang/algorithm018/week01/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/plusone.dir/rule
+.PHONY : CMakeFiles/trapping_rain_water.dir/rule
 
 # Convenience name for target.
-plusone: CMakeFiles/plusone.dir/rule
+trapping_rain_water: CMakeFiles/trapping_rain_water.dir/rule
 
-.PHONY : plusone
-
-# clean rule for target.
-CMakeFiles/plusone.dir/clean:
-	$(MAKE) -f CMakeFiles/plusone.dir/build.make CMakeFiles/plusone.dir/clean
-.PHONY : CMakeFiles/plusone.dir/clean
+.PHONY : trapping_rain_water
 
 # clean rule for target.
-clean: CMakeFiles/plusone.dir/clean
+CMakeFiles/trapping_rain_water.dir/clean:
+	$(MAKE) -f CMakeFiles/trapping_rain_water.dir/build.make CMakeFiles/trapping_rain_water.dir/clean
+.PHONY : CMakeFiles/trapping_rain_water.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/trapping_rain_water.dir/clean
 
 .PHONY : clean
 

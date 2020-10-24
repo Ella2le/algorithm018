@@ -111,44 +111,44 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named plusone
+# Target rules for targets named trapping_rain_water
 
 # Build rule for target.
-plusone: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 plusone
-.PHONY : plusone
+trapping_rain_water: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 trapping_rain_water
+.PHONY : trapping_rain_water
 
 # fast build rule for target.
-plusone/fast:
-	$(MAKE) -f CMakeFiles/plusone.dir/build.make CMakeFiles/plusone.dir/build
-.PHONY : plusone/fast
+trapping_rain_water/fast:
+	$(MAKE) -f CMakeFiles/trapping_rain_water.dir/build.make CMakeFiles/trapping_rain_water.dir/build
+.PHONY : trapping_rain_water/fast
 
-plusone.o: plusone.cpp.o
+trapping_rain_water.o: trapping_rain_water.cpp.o
 
-.PHONY : plusone.o
+.PHONY : trapping_rain_water.o
 
 # target to build an object file
-plusone.cpp.o:
-	$(MAKE) -f CMakeFiles/plusone.dir/build.make CMakeFiles/plusone.dir/plusone.cpp.o
-.PHONY : plusone.cpp.o
+trapping_rain_water.cpp.o:
+	$(MAKE) -f CMakeFiles/trapping_rain_water.dir/build.make CMakeFiles/trapping_rain_water.dir/trapping_rain_water.cpp.o
+.PHONY : trapping_rain_water.cpp.o
 
-plusone.i: plusone.cpp.i
+trapping_rain_water.i: trapping_rain_water.cpp.i
 
-.PHONY : plusone.i
+.PHONY : trapping_rain_water.i
 
 # target to preprocess a source file
-plusone.cpp.i:
-	$(MAKE) -f CMakeFiles/plusone.dir/build.make CMakeFiles/plusone.dir/plusone.cpp.i
-.PHONY : plusone.cpp.i
+trapping_rain_water.cpp.i:
+	$(MAKE) -f CMakeFiles/trapping_rain_water.dir/build.make CMakeFiles/trapping_rain_water.dir/trapping_rain_water.cpp.i
+.PHONY : trapping_rain_water.cpp.i
 
-plusone.s: plusone.cpp.s
+trapping_rain_water.s: trapping_rain_water.cpp.s
 
-.PHONY : plusone.s
+.PHONY : trapping_rain_water.s
 
 # target to generate assembly for a file
-plusone.cpp.s:
-	$(MAKE) -f CMakeFiles/plusone.dir/build.make CMakeFiles/plusone.dir/plusone.cpp.s
-.PHONY : plusone.cpp.s
+trapping_rain_water.cpp.s:
+	$(MAKE) -f CMakeFiles/trapping_rain_water.dir/build.make CMakeFiles/trapping_rain_water.dir/trapping_rain_water.cpp.s
+.PHONY : trapping_rain_water.cpp.s
 
 # Help Target
 help:
@@ -157,11 +157,11 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... rebuild_cache"
-	@echo "... plusone"
+	@echo "... trapping_rain_water"
 	@echo "... edit_cache"
-	@echo "... plusone.o"
-	@echo "... plusone.i"
-	@echo "... plusone.s"
+	@echo "... trapping_rain_water.o"
+	@echo "... trapping_rain_water.i"
+	@echo "... trapping_rain_water.s"
 .PHONY : help
 
 

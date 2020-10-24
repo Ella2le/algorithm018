@@ -8,7 +8,7 @@ public:
     vector<vector<int>> threeSum(vector<int>& nums) {
         vector<vector<int>> res;
         sort(nums.begin(), nums.end());
-        for(int k = 0; k < nums.size() - 2; k++){
+        for(int k = 0; k < int(nums.size() - 2); k++){
             if(nums[k] > 0) break;
             if(k > 0 && nums[k] == nums[k - 1]) continue;
             int i = k + 1, j = nums.size() - 1;

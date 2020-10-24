@@ -1,0 +1,21 @@
+//
+// Created by lewang on 10/23/20.
+//
+
+class Solution {
+public:
+    int removeDuplicates(vector<int>& nums) {
+        if(nums.size()<1){
+            return nums.size();
+        }
+        int j = 0;
+        for(int i = 1; i <nums.size();++i){
+//            int temp = nums[i];
+            if(nums[i] != nums[j] ){
+                j++;
+                nums[j]=nums[i];
+            }
+        }
+        return j+1;
+    }
+};
