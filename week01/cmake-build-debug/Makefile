@@ -111,44 +111,44 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named trapping_rain_water
+# Target rules for targets named 40_Find_Ksmallest_nums
 
 # Build rule for target.
-trapping_rain_water: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 trapping_rain_water
-.PHONY : trapping_rain_water
+40_Find_Ksmallest_nums: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 40_Find_Ksmallest_nums
+.PHONY : 40_Find_Ksmallest_nums
 
 # fast build rule for target.
-trapping_rain_water/fast:
-	$(MAKE) -f CMakeFiles/trapping_rain_water.dir/build.make CMakeFiles/trapping_rain_water.dir/build
-.PHONY : trapping_rain_water/fast
+40_Find_Ksmallest_nums/fast:
+	$(MAKE) -f CMakeFiles/40_Find_Ksmallest_nums.dir/build.make CMakeFiles/40_Find_Ksmallest_nums.dir/build
+.PHONY : 40_Find_Ksmallest_nums/fast
 
-trapping_rain_water.o: trapping_rain_water.cpp.o
+40_Find_Ksmallest_nums.o: 40_Find_Ksmallest_nums.cpp.o
 
-.PHONY : trapping_rain_water.o
+.PHONY : 40_Find_Ksmallest_nums.o
 
 # target to build an object file
-trapping_rain_water.cpp.o:
-	$(MAKE) -f CMakeFiles/trapping_rain_water.dir/build.make CMakeFiles/trapping_rain_water.dir/trapping_rain_water.cpp.o
-.PHONY : trapping_rain_water.cpp.o
+40_Find_Ksmallest_nums.cpp.o:
+	$(MAKE) -f CMakeFiles/40_Find_Ksmallest_nums.dir/build.make CMakeFiles/40_Find_Ksmallest_nums.dir/40_Find_Ksmallest_nums.cpp.o
+.PHONY : 40_Find_Ksmallest_nums.cpp.o
 
-trapping_rain_water.i: trapping_rain_water.cpp.i
+40_Find_Ksmallest_nums.i: 40_Find_Ksmallest_nums.cpp.i
 
-.PHONY : trapping_rain_water.i
+.PHONY : 40_Find_Ksmallest_nums.i
 
 # target to preprocess a source file
-trapping_rain_water.cpp.i:
-	$(MAKE) -f CMakeFiles/trapping_rain_water.dir/build.make CMakeFiles/trapping_rain_water.dir/trapping_rain_water.cpp.i
-.PHONY : trapping_rain_water.cpp.i
+40_Find_Ksmallest_nums.cpp.i:
+	$(MAKE) -f CMakeFiles/40_Find_Ksmallest_nums.dir/build.make CMakeFiles/40_Find_Ksmallest_nums.dir/40_Find_Ksmallest_nums.cpp.i
+.PHONY : 40_Find_Ksmallest_nums.cpp.i
 
-trapping_rain_water.s: trapping_rain_water.cpp.s
+40_Find_Ksmallest_nums.s: 40_Find_Ksmallest_nums.cpp.s
 
-.PHONY : trapping_rain_water.s
+.PHONY : 40_Find_Ksmallest_nums.s
 
 # target to generate assembly for a file
-trapping_rain_water.cpp.s:
-	$(MAKE) -f CMakeFiles/trapping_rain_water.dir/build.make CMakeFiles/trapping_rain_water.dir/trapping_rain_water.cpp.s
-.PHONY : trapping_rain_water.cpp.s
+40_Find_Ksmallest_nums.cpp.s:
+	$(MAKE) -f CMakeFiles/40_Find_Ksmallest_nums.dir/build.make CMakeFiles/40_Find_Ksmallest_nums.dir/40_Find_Ksmallest_nums.cpp.s
+.PHONY : 40_Find_Ksmallest_nums.cpp.s
 
 # Help Target
 help:
@@ -157,11 +157,11 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... rebuild_cache"
-	@echo "... trapping_rain_water"
+	@echo "... 40_Find_Ksmallest_nums"
 	@echo "... edit_cache"
-	@echo "... trapping_rain_water.o"
-	@echo "... trapping_rain_water.i"
-	@echo "... trapping_rain_water.s"
+	@echo "... 40_Find_Ksmallest_nums.o"
+	@echo "... 40_Find_Ksmallest_nums.i"
+	@echo "... 40_Find_Ksmallest_nums.s"
 .PHONY : help
 
 

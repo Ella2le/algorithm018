@@ -5,5 +5,5 @@ set(CMAKE_CXX_STANDARD_REQUIRED )
 #add_executable (move_zeros  lc-283_move-zeros.cpp)
 #target_link_libraries (move_zeros LINK_PUBLIC week01)
 
-add_executable (trapping_rain_water  trapping_rain_water.cpp)
+add_executable (40_Find_Ksmallest_nums  40_Find_Ksmallest_nums.cpp)
 #target_link_libraries (plusone LINK_PUBLIC week01)

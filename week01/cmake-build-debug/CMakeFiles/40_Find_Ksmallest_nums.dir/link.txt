@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/40_Find_Ksmallest_nums.dir/40_Find_Ksmallest_nums.cpp.o  -o 40_Find_Ksmallest_nums 

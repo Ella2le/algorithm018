@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/valid_anagram.dir/valid_anagram.cpp.o  -o valid_anagram 

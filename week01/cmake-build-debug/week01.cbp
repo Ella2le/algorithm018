@@ -27,8 +27,8 @@
 					<DistClean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="trapping_rain_water">
-				<Option output="/home/lewang/algorithm018/week01/cmake-build-debug/trapping_rain_water" prefix_auto="0" extension_auto="0"/>
+			<Target title="40_Find_Ksmallest_nums">
+				<Option output="/home/lewang/algorithm018/week01/cmake-build-debug/40_Find_Ksmallest_nums" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/lewang/algorithm018/week01/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -44,14 +44,14 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week01/cmake-build-debug/Makefile&quot;  VERBOSE=1 trapping_rain_water"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week01/cmake-build-debug/Makefile&quot;  VERBOSE=1 40_Find_Ksmallest_nums"/>
 					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="trapping_rain_water/fast">
-				<Option output="/home/lewang/algorithm018/week01/cmake-build-debug/trapping_rain_water" prefix_auto="0" extension_auto="0"/>
+			<Target title="40_Find_Ksmallest_nums/fast">
+				<Option output="/home/lewang/algorithm018/week01/cmake-build-debug/40_Find_Ksmallest_nums" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/lewang/algorithm018/week01/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -67,7 +67,7 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week01/cmake-build-debug/Makefile&quot;  VERBOSE=1 trapping_rain_water/fast"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week01/cmake-build-debug/Makefile&quot;  VERBOSE=1 40_Find_Ksmallest_nums/fast"/>
 					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -84,8 +84,8 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/lewang/algorithm018/week01/trapping_rain_water.cpp">
-			<Option target="trapping_rain_water"/>
+		<Unit filename="/home/lewang/algorithm018/week01/40_Find_Ksmallest_nums.cpp">
+			<Option target="40_Find_Ksmallest_nums"/>
 		</Unit>
 		<Unit filename="/home/lewang/algorithm018/week01/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>

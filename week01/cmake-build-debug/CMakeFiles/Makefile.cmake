@@ -46,5 +46,5 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/trapping_rain_water.dir/DependInfo.cmake"
+  "CMakeFiles/40_Find_Ksmallest_nums.dir/DependInfo.cmake"
   )

@@ -65,39 +65,39 @@ CMAKE_SOURCE_DIR = /home/lewang/algorithm018/week01
 CMAKE_BINARY_DIR = /home/lewang/algorithm018/week01/cmake-build-debug
 
 #=============================================================================
-# Target rules for target CMakeFiles/trapping_rain_water.dir
+# Target rules for target CMakeFiles/40_Find_Ksmallest_nums.dir
 
 # All Build rule for target.
-CMakeFiles/trapping_rain_water.dir/all:
-	$(MAKE) -f CMakeFiles/trapping_rain_water.dir/build.make CMakeFiles/trapping_rain_water.dir/depend
-	$(MAKE) -f CMakeFiles/trapping_rain_water.dir/build.make CMakeFiles/trapping_rain_water.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/lewang/algorithm018/week01/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target trapping_rain_water"
-.PHONY : CMakeFiles/trapping_rain_water.dir/all
+CMakeFiles/40_Find_Ksmallest_nums.dir/all:
+	$(MAKE) -f CMakeFiles/40_Find_Ksmallest_nums.dir/build.make CMakeFiles/40_Find_Ksmallest_nums.dir/depend
+	$(MAKE) -f CMakeFiles/40_Find_Ksmallest_nums.dir/build.make CMakeFiles/40_Find_Ksmallest_nums.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/lewang/algorithm018/week01/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target 40_Find_Ksmallest_nums"
+.PHONY : CMakeFiles/40_Find_Ksmallest_nums.dir/all
 
 # Include target in all.
-all: CMakeFiles/trapping_rain_water.dir/all
+all: CMakeFiles/40_Find_Ksmallest_nums.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/trapping_rain_water.dir/rule: cmake_check_build_system
+CMakeFiles/40_Find_Ksmallest_nums.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/lewang/algorithm018/week01/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/trapping_rain_water.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/40_Find_Ksmallest_nums.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/lewang/algorithm018/week01/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/trapping_rain_water.dir/rule
+.PHONY : CMakeFiles/40_Find_Ksmallest_nums.dir/rule
 
 # Convenience name for target.
-trapping_rain_water: CMakeFiles/trapping_rain_water.dir/rule
+40_Find_Ksmallest_nums: CMakeFiles/40_Find_Ksmallest_nums.dir/rule
 
-.PHONY : trapping_rain_water
-
-# clean rule for target.
-CMakeFiles/trapping_rain_water.dir/clean:
-	$(MAKE) -f CMakeFiles/trapping_rain_water.dir/build.make CMakeFiles/trapping_rain_water.dir/clean
-.PHONY : CMakeFiles/trapping_rain_water.dir/clean
+.PHONY : 40_Find_Ksmallest_nums
 
 # clean rule for target.
-clean: CMakeFiles/trapping_rain_water.dir/clean
+CMakeFiles/40_Find_Ksmallest_nums.dir/clean:
+	$(MAKE) -f CMakeFiles/40_Find_Ksmallest_nums.dir/build.make CMakeFiles/40_Find_Ksmallest_nums.dir/clean
+.PHONY : CMakeFiles/40_Find_Ksmallest_nums.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/40_Find_Ksmallest_nums.dir/clean
 
 .PHONY : clean
 

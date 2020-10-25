@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/bulls_and_cow.dir/bulls_and_cow.cpp.o  -o bulls_and_cow 
