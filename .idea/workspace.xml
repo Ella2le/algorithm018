@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+<<<<<<< HEAD
     <generated>
       <config projectName="week02" targetName="removeOuterParentheses" />
     </generated>
+=======
+    <generated />
+>>>>>>> 30406604fd78d116e8da6e230fba9c90c7db3e4a
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -11,6 +15,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="dcdfbaa2-00ce-4e86-b0d5-267557e9ea82" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/week02/CMakeLists.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/week02/Joffer59-maxSlidingwindow.cpp" afterDir="false" />
@@ -36,12 +41,21 @@
     </list>
     <ignored path="$PROJECT_DIR$/week01/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/week02/cmake-build-debug/" />
+=======
+    <list default="true" id="492ccc1f-36c5-4028-af63-9f3db3eaf736" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/week01/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week01/lc-283_move-zeros.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week01/lc-283_movezeros.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week01/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/week01/NOTE.md" afterDir="false" />
+    </list>
+>>>>>>> 30406604fd78d116e8da6e230fba9c90c7db3e4a
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -60,12 +74,23 @@
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="828">
                 <caret line="49" column="2" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="2" />
+=======
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week01/NOTE.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="586">
+                <caret line="45" selection-start-line="45" selection-end-line="45" />
+>>>>>>> 30406604fd78d116e8da6e230fba9c90c7db3e4a
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week02/uniqueOccurences.cpp">
           <provider selected="true" editor-type-id="text-editor">
@@ -98,20 +123,35 @@
                 <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
               </first_editor>
               <second_editor />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/week01/lc-283_move-zeros.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+>>>>>>> 30406604fd78d116e8da6e230fba9c90c7db3e4a
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/week02/intersection_of_2_arr.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
               <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+=======
+        <entry file="file://$PROJECT_DIR$/week01/lc-283_movezeros.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+>>>>>>> 30406604fd78d116e8da6e230fba9c90c7db3e4a
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/week02/Joffer59-maxSlidingwindow.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1224">
@@ -134,6 +174,12 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
               <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+=======
+        <entry file="file://$PROJECT_DIR$/week01/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+>>>>>>> 30406604fd78d116e8da6e230fba9c90c7db3e4a
             </state>
           </provider>
         </entry>
@@ -144,6 +190,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CMakeLists.txt" />
+<<<<<<< HEAD
+=======
+        <option value="Python Script" />
+>>>>>>> 30406604fd78d116e8da6e230fba9c90c7db3e4a
       </list>
     </option>
   </component>
@@ -153,6 +203,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/week01/plusone.cpp" />
         <option value="$PROJECT_DIR$/week01/lc-waterContainer.cpp" />
         <option value="$PROJECT_DIR$/week01/reorder_list.cpp" />
@@ -197,6 +248,26 @@
     <option name="y" value="169" />
     <option name="width" value="854" />
     <option name="height" value="789" />
+=======
+        <option value="$PROJECT_DIR$/week01/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/week01/NOTE.md" />
+        <option value="$PROJECT_DIR$/week01/lc-283_movezeros.py" />
+        <option value="$PROJECT_DIR$/week01/lc-283_move-zeros.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="266" />
+    <option name="y" value="-8" />
+    <option name="width" value="1072" />
+    <option name="height" value="1005" />
+>>>>>>> 30406604fd78d116e8da6e230fba9c90c7db3e4a
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -206,10 +277,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
+      <pane id="Scope" />
+>>>>>>> 30406604fd78d116e8da6e230fba9c90c7db3e4a
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
+<<<<<<< HEAD
               <item name="week02" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm018" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -217,16 +293,29 @@
               <item name="week02" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm018" type="462c0819:PsiDirectoryNode" />
               <item name="week02" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="algorithm018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm018" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm018" type="462c0819:PsiDirectoryNode" />
+              <item name="week01" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 30406604fd78d116e8da6e230fba9c90c7db3e4a
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="Scope" />
+=======
+>>>>>>> 30406604fd78d116e8da6e230fba9c90c7db3e4a
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../leetcode" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -237,6 +326,18 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/week01/" />
     </key>
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.tslint" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+>>>>>>> 30406604fd78d116e8da6e230fba9c90c7db3e4a
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -250,6 +351,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager">
     <configuration name="removeOuterParentheses" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="week02" TARGET_NAME="removeOuterParentheses" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="week02" RUN_TARGET_NAME="removeOuterParentheses">
       <method v="2">
@@ -257,11 +359,14 @@
       </method>
     </configuration>
   </component>
+=======
+>>>>>>> 30406604fd78d116e8da6e230fba9c90c7db3e4a
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="dcdfbaa2-00ce-4e86-b0d5-267557e9ea82" name="Default Changelist" comment="" />
       <created>1603197081186</created>
       <option name="number" value="Default" />
@@ -286,10 +391,20 @@
       <workItem from="1603710958928" duration="11679000" />
       <workItem from="1603799405958" duration="9228000" />
       <workItem from="1603884257090" duration="9013000" />
+=======
+      <changelist id="492ccc1f-36c5-4028-af63-9f3db3eaf736" name="Default Changelist" comment="" />
+      <created>1603111084520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603111084520</updated>
+      <workItem from="1603111085881" duration="1392000" />
+      <workItem from="1603112514728" duration="7750000" />
+>>>>>>> 30406604fd78d116e8da6e230fba9c90c7db3e4a
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="114006000" />
   </component>
   <component name="ToolWindowManager">
@@ -302,25 +417,51 @@
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4994432" weight="0.27041942" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39955848" />
+=======
+    <option name="totallyTimeSpent" value="9142000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07089552" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection Results" weight="0.329718" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+>>>>>>> 30406604fd78d116e8da6e230fba9c90c7db3e4a
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Messages" order="8" weight="0.32781458" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50055677" side_tool="true" weight="0.3082873" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="CMake" order="12" />
+=======
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+>>>>>>> 30406604fd78d116e8da6e230fba9c90c7db3e4a
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
+<<<<<<< HEAD
       <window_info anchor="right" id="leetcode" order="4" side_tool="true" weight="0.32962137" />
+=======
+>>>>>>> 30406604fd78d116e8da6e230fba9c90c7db3e4a
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+<<<<<<< HEAD
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../leetcode/leetcode/editor/cn/[1]两数之和.cpp">
       <provider selected="true" editor-type-id="text-editor" />
@@ -524,10 +665,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+=======
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="algorithm018" type="b2602c69:ProjectViewProjectNode" />
+        <item name="algorithm018" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/week01/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+>>>>>>> 30406604fd78d116e8da6e230fba9c90c7db3e4a
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/week01/NOTE.md">
+<<<<<<< HEAD
       <provider editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
@@ -537,10 +695,17 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="828">
             <caret line="49" column="2" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="2" />
+=======
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="586">
+            <caret line="45" selection-start-line="45" selection-end-line="45" />
+>>>>>>> 30406604fd78d116e8da6e230fba9c90c7db3e4a
           </first_editor>
           <second_editor />
         </state>
       </provider>
+<<<<<<< HEAD
     </entry>
     <entry file="file://$PROJECT_DIR$/week02/uniqueOccurences.cpp">
       <provider selected="true" editor-type-id="text-editor">
@@ -566,10 +731,30 @@
           <folding>
             <element signature="e#41#60#0" expanded="true" />
           </folding>
+=======
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week01/lc-283_movezeros.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week01/lc-283_move-zeros.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+>>>>>>> 30406604fd78d116e8da6e230fba9c90c7db3e4a
         </state>
       </provider>
     </entry>
   </component>
+<<<<<<< HEAD
   <component name="masterDetails">
     <states>
       <state key="MarkdownNavigator.LinkMap.UI">
@@ -596,4 +781,6 @@
       </state>
     </states>
   </component>
+=======
+>>>>>>> 30406604fd78d116e8da6e230fba9c90c7db3e4a
 </project>
