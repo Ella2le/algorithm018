@@ -7,6 +7,8 @@
 #include <iostream>
 #include <string>
 #include <vector>
+#include <unordered_map>
+
 using namespace std;
 
 class Solution {
@@ -43,6 +45,30 @@ public:
         }
 
     }
+
+    bool isAnagram2(string s, string t){
+        if(s.size() != t.size()) return false;
+        //vector<int> cache;
+        unordered_map<int,int> cache;
+        for (int i = 0; i <= s.size()-1; i++) {
+            char sc = s[i];
+            cache[sc - 'a']++;
+        }
+        for (int j = 0; j <= t.size()-1; ++j) {
+            char tc = t[j];
+            cache[tc -'a']--;
+            if(cache[tc - 'a'] == 0){
+                cache.erase(tc-'a');
+            }
+        }
+        if(cache.empty()){
+            return true;
+        }else {
+            return false;
+        }
+
+    }
+
 };
 
 int main() {

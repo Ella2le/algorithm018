@@ -5,5 +5,5 @@ set(CMAKE_CXX_STANDARD_REQUIRED )
 #add_executable (move_zeros  lc-283_move-zeros.cpp)
 #target_link_libraries (move_zeros LINK_PUBLIC week01)
 
-add_executable (40_Find_Ksmallest_nums  40_Find_Ksmallest_nums.cpp)
+add_executable (valid_anagram valid_anagram.cpp)
 #target_link_libraries (plusone LINK_PUBLIC week01)

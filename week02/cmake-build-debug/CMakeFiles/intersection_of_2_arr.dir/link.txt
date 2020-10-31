@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/intersection_of_2_arr.dir/intersection_of_2_arr.cpp.o  -o intersection_of_2_arr 

@@ -111,44 +111,44 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named 40_Find_Ksmallest_nums
+# Target rules for targets named valid_anagram
 
 # Build rule for target.
-40_Find_Ksmallest_nums: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 40_Find_Ksmallest_nums
-.PHONY : 40_Find_Ksmallest_nums
+valid_anagram: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 valid_anagram
+.PHONY : valid_anagram
 
 # fast build rule for target.
-40_Find_Ksmallest_nums/fast:
-	$(MAKE) -f CMakeFiles/40_Find_Ksmallest_nums.dir/build.make CMakeFiles/40_Find_Ksmallest_nums.dir/build
-.PHONY : 40_Find_Ksmallest_nums/fast
+valid_anagram/fast:
+	$(MAKE) -f CMakeFiles/valid_anagram.dir/build.make CMakeFiles/valid_anagram.dir/build
+.PHONY : valid_anagram/fast
 
-40_Find_Ksmallest_nums.o: 40_Find_Ksmallest_nums.cpp.o
+valid_anagram.o: valid_anagram.cpp.o
 
-.PHONY : 40_Find_Ksmallest_nums.o
+.PHONY : valid_anagram.o
 
 # target to build an object file
-40_Find_Ksmallest_nums.cpp.o:
-	$(MAKE) -f CMakeFiles/40_Find_Ksmallest_nums.dir/build.make CMakeFiles/40_Find_Ksmallest_nums.dir/40_Find_Ksmallest_nums.cpp.o
-.PHONY : 40_Find_Ksmallest_nums.cpp.o
+valid_anagram.cpp.o:
+	$(MAKE) -f CMakeFiles/valid_anagram.dir/build.make CMakeFiles/valid_anagram.dir/valid_anagram.cpp.o
+.PHONY : valid_anagram.cpp.o
 
-40_Find_Ksmallest_nums.i: 40_Find_Ksmallest_nums.cpp.i
+valid_anagram.i: valid_anagram.cpp.i
 
-.PHONY : 40_Find_Ksmallest_nums.i
+.PHONY : valid_anagram.i
 
 # target to preprocess a source file
-40_Find_Ksmallest_nums.cpp.i:
-	$(MAKE) -f CMakeFiles/40_Find_Ksmallest_nums.dir/build.make CMakeFiles/40_Find_Ksmallest_nums.dir/40_Find_Ksmallest_nums.cpp.i
-.PHONY : 40_Find_Ksmallest_nums.cpp.i
+valid_anagram.cpp.i:
+	$(MAKE) -f CMakeFiles/valid_anagram.dir/build.make CMakeFiles/valid_anagram.dir/valid_anagram.cpp.i
+.PHONY : valid_anagram.cpp.i
 
-40_Find_Ksmallest_nums.s: 40_Find_Ksmallest_nums.cpp.s
+valid_anagram.s: valid_anagram.cpp.s
 
-.PHONY : 40_Find_Ksmallest_nums.s
+.PHONY : valid_anagram.s
 
 # target to generate assembly for a file
-40_Find_Ksmallest_nums.cpp.s:
-	$(MAKE) -f CMakeFiles/40_Find_Ksmallest_nums.dir/build.make CMakeFiles/40_Find_Ksmallest_nums.dir/40_Find_Ksmallest_nums.cpp.s
-.PHONY : 40_Find_Ksmallest_nums.cpp.s
+valid_anagram.cpp.s:
+	$(MAKE) -f CMakeFiles/valid_anagram.dir/build.make CMakeFiles/valid_anagram.dir/valid_anagram.cpp.s
+.PHONY : valid_anagram.cpp.s
 
 # Help Target
 help:
@@ -157,11 +157,11 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... rebuild_cache"
-	@echo "... 40_Find_Ksmallest_nums"
+	@echo "... valid_anagram"
 	@echo "... edit_cache"
-	@echo "... 40_Find_Ksmallest_nums.o"
-	@echo "... 40_Find_Ksmallest_nums.i"
-	@echo "... 40_Find_Ksmallest_nums.s"
+	@echo "... valid_anagram.o"
+	@echo "... valid_anagram.i"
+	@echo "... valid_anagram.s"
 .PHONY : help
 
 

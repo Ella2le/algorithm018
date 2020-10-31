@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lewang/algorithm018/week02/groupAnagrams.cpp
+iostream
+-
+vector
+-
+string
+-
+string
+-
+algorithm
+-
+unordered_map
+-
+

@@ -46,5 +46,5 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/40_Find_Ksmallest_nums.dir/DependInfo.cmake"
+  "CMakeFiles/valid_anagram.dir/DependInfo.cmake"
   )
