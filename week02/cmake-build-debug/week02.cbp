@@ -27,8 +27,8 @@
 					<DistClean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week02/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="removeOuterParentheses">
-				<Option output="/home/lewang/algorithm018/week02/cmake-build-debug/removeOuterParentheses" prefix_auto="0" extension_auto="0"/>
+			<Target title="49_UglyNumber">
+				<Option output="/home/lewang/algorithm018/week02/cmake-build-debug/49_UglyNumber" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/lewang/algorithm018/week02/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -44,14 +44,14 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week02/cmake-build-debug/Makefile&quot;  VERBOSE=1 removeOuterParentheses"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week02/cmake-build-debug/Makefile&quot;  VERBOSE=1 49_UglyNumber"/>
 					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week02/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week02/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week02/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="removeOuterParentheses/fast">
-				<Option output="/home/lewang/algorithm018/week02/cmake-build-debug/removeOuterParentheses" prefix_auto="0" extension_auto="0"/>
+			<Target title="49_UglyNumber/fast">
+				<Option output="/home/lewang/algorithm018/week02/cmake-build-debug/49_UglyNumber" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/lewang/algorithm018/week02/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -67,7 +67,7 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week02/cmake-build-debug/Makefile&quot;  VERBOSE=1 removeOuterParentheses/fast"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week02/cmake-build-debug/Makefile&quot;  VERBOSE=1 49_UglyNumber/fast"/>
 					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week02/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week02/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week02/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -84,8 +84,8 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/lewang/algorithm018/week02/removeOuterParentheses.cpp">
-			<Option target="removeOuterParentheses"/>
+		<Unit filename="/home/lewang/algorithm018/week02/49_UglyNumber.cpp">
+			<Option target="49_UglyNumber"/>
 		</Unit>
 		<Unit filename="/home/lewang/algorithm018/week02/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>

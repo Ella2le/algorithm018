@@ -65,39 +65,39 @@ CMAKE_SOURCE_DIR = /home/lewang/algorithm018/week02
 CMAKE_BINARY_DIR = /home/lewang/algorithm018/week02/cmake-build-debug
 
 #=============================================================================
-# Target rules for target CMakeFiles/removeOuterParentheses.dir
+# Target rules for target CMakeFiles/49_UglyNumber.dir
 
 # All Build rule for target.
-CMakeFiles/removeOuterParentheses.dir/all:
-	$(MAKE) -f CMakeFiles/removeOuterParentheses.dir/build.make CMakeFiles/removeOuterParentheses.dir/depend
-	$(MAKE) -f CMakeFiles/removeOuterParentheses.dir/build.make CMakeFiles/removeOuterParentheses.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/lewang/algorithm018/week02/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target removeOuterParentheses"
-.PHONY : CMakeFiles/removeOuterParentheses.dir/all
+CMakeFiles/49_UglyNumber.dir/all:
+	$(MAKE) -f CMakeFiles/49_UglyNumber.dir/build.make CMakeFiles/49_UglyNumber.dir/depend
+	$(MAKE) -f CMakeFiles/49_UglyNumber.dir/build.make CMakeFiles/49_UglyNumber.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/lewang/algorithm018/week02/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target 49_UglyNumber"
+.PHONY : CMakeFiles/49_UglyNumber.dir/all
 
 # Include target in all.
-all: CMakeFiles/removeOuterParentheses.dir/all
+all: CMakeFiles/49_UglyNumber.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/removeOuterParentheses.dir/rule: cmake_check_build_system
+CMakeFiles/49_UglyNumber.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/lewang/algorithm018/week02/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/removeOuterParentheses.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/49_UglyNumber.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/lewang/algorithm018/week02/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/removeOuterParentheses.dir/rule
+.PHONY : CMakeFiles/49_UglyNumber.dir/rule
 
 # Convenience name for target.
-removeOuterParentheses: CMakeFiles/removeOuterParentheses.dir/rule
+49_UglyNumber: CMakeFiles/49_UglyNumber.dir/rule
 
-.PHONY : removeOuterParentheses
-
-# clean rule for target.
-CMakeFiles/removeOuterParentheses.dir/clean:
-	$(MAKE) -f CMakeFiles/removeOuterParentheses.dir/build.make CMakeFiles/removeOuterParentheses.dir/clean
-.PHONY : CMakeFiles/removeOuterParentheses.dir/clean
+.PHONY : 49_UglyNumber
 
 # clean rule for target.
-clean: CMakeFiles/removeOuterParentheses.dir/clean
+CMakeFiles/49_UglyNumber.dir/clean:
+	$(MAKE) -f CMakeFiles/49_UglyNumber.dir/build.make CMakeFiles/49_UglyNumber.dir/clean
+.PHONY : CMakeFiles/49_UglyNumber.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/49_UglyNumber.dir/clean
 
 .PHONY : clean
 

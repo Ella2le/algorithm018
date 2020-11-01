@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/242_isAnagram.dir/242_isAnagram.cpp.o  -o 242_isAnagram 

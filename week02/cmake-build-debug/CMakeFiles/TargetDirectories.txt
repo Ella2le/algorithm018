@@ -1,3 +1,3 @@
 /home/lewang/algorithm018/week02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/lewang/algorithm018/week02/cmake-build-debug/CMakeFiles/removeOuterParentheses.dir
+/home/lewang/algorithm018/week02/cmake-build-debug/CMakeFiles/49_UglyNumber.dir
 /home/lewang/algorithm018/week02/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -111,44 +111,44 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named removeOuterParentheses
+# Target rules for targets named 49_UglyNumber
 
 # Build rule for target.
-removeOuterParentheses: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 removeOuterParentheses
-.PHONY : removeOuterParentheses
+49_UglyNumber: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 49_UglyNumber
+.PHONY : 49_UglyNumber
 
 # fast build rule for target.
-removeOuterParentheses/fast:
-	$(MAKE) -f CMakeFiles/removeOuterParentheses.dir/build.make CMakeFiles/removeOuterParentheses.dir/build
-.PHONY : removeOuterParentheses/fast
+49_UglyNumber/fast:
+	$(MAKE) -f CMakeFiles/49_UglyNumber.dir/build.make CMakeFiles/49_UglyNumber.dir/build
+.PHONY : 49_UglyNumber/fast
 
-removeOuterParentheses.o: removeOuterParentheses.cpp.o
+49_UglyNumber.o: 49_UglyNumber.cpp.o
 
-.PHONY : removeOuterParentheses.o
+.PHONY : 49_UglyNumber.o
 
 # target to build an object file
-removeOuterParentheses.cpp.o:
-	$(MAKE) -f CMakeFiles/removeOuterParentheses.dir/build.make CMakeFiles/removeOuterParentheses.dir/removeOuterParentheses.cpp.o
-.PHONY : removeOuterParentheses.cpp.o
+49_UglyNumber.cpp.o:
+	$(MAKE) -f CMakeFiles/49_UglyNumber.dir/build.make CMakeFiles/49_UglyNumber.dir/49_UglyNumber.cpp.o
+.PHONY : 49_UglyNumber.cpp.o
 
-removeOuterParentheses.i: removeOuterParentheses.cpp.i
+49_UglyNumber.i: 49_UglyNumber.cpp.i
 
-.PHONY : removeOuterParentheses.i
+.PHONY : 49_UglyNumber.i
 
 # target to preprocess a source file
-removeOuterParentheses.cpp.i:
-	$(MAKE) -f CMakeFiles/removeOuterParentheses.dir/build.make CMakeFiles/removeOuterParentheses.dir/removeOuterParentheses.cpp.i
-.PHONY : removeOuterParentheses.cpp.i
+49_UglyNumber.cpp.i:
+	$(MAKE) -f CMakeFiles/49_UglyNumber.dir/build.make CMakeFiles/49_UglyNumber.dir/49_UglyNumber.cpp.i
+.PHONY : 49_UglyNumber.cpp.i
 
-removeOuterParentheses.s: removeOuterParentheses.cpp.s
+49_UglyNumber.s: 49_UglyNumber.cpp.s
 
-.PHONY : removeOuterParentheses.s
+.PHONY : 49_UglyNumber.s
 
 # target to generate assembly for a file
-removeOuterParentheses.cpp.s:
-	$(MAKE) -f CMakeFiles/removeOuterParentheses.dir/build.make CMakeFiles/removeOuterParentheses.dir/removeOuterParentheses.cpp.s
-.PHONY : removeOuterParentheses.cpp.s
+49_UglyNumber.cpp.s:
+	$(MAKE) -f CMakeFiles/49_UglyNumber.dir/build.make CMakeFiles/49_UglyNumber.dir/49_UglyNumber.cpp.s
+.PHONY : 49_UglyNumber.cpp.s
 
 # Help Target
 help:
@@ -157,11 +157,11 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... rebuild_cache"
-	@echo "... removeOuterParentheses"
+	@echo "... 49_UglyNumber"
 	@echo "... edit_cache"
-	@echo "... removeOuterParentheses.o"
-	@echo "... removeOuterParentheses.i"
-	@echo "... removeOuterParentheses.s"
+	@echo "... 49_UglyNumber.o"
+	@echo "... 49_UglyNumber.i"
+	@echo "... 49_UglyNumber.s"
 .PHONY : help
 
 
