@@ -46,5 +46,5 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/49_UglyNumber.dir/DependInfo.cmake"
+  "CMakeFiles/347_topKFrequent.dir/DependInfo.cmake"
   )

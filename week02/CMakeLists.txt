@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD_REQUIRED )
 #add_executable (move_zeros  lc-283_move-zeros.cpp)
 #target_link_libraries (move_zeros LINK_PUBLIC week01)
 
-add_executable (49_UglyNumber 49_UglyNumber.cpp)
+add_executable (347_topKFrequent 347_topKFrequent.cpp)

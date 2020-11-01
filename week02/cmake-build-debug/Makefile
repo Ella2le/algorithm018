@@ -111,44 +111,44 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named 49_UglyNumber
+# Target rules for targets named 347_topKFrequent
 
 # Build rule for target.
-49_UglyNumber: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 49_UglyNumber
-.PHONY : 49_UglyNumber
+347_topKFrequent: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 347_topKFrequent
+.PHONY : 347_topKFrequent
 
 # fast build rule for target.
-49_UglyNumber/fast:
-	$(MAKE) -f CMakeFiles/49_UglyNumber.dir/build.make CMakeFiles/49_UglyNumber.dir/build
-.PHONY : 49_UglyNumber/fast
+347_topKFrequent/fast:
+	$(MAKE) -f CMakeFiles/347_topKFrequent.dir/build.make CMakeFiles/347_topKFrequent.dir/build
+.PHONY : 347_topKFrequent/fast
 
-49_UglyNumber.o: 49_UglyNumber.cpp.o
+347_topKFrequent.o: 347_topKFrequent.cpp.o
 
-.PHONY : 49_UglyNumber.o
+.PHONY : 347_topKFrequent.o
 
 # target to build an object file
-49_UglyNumber.cpp.o:
-	$(MAKE) -f CMakeFiles/49_UglyNumber.dir/build.make CMakeFiles/49_UglyNumber.dir/49_UglyNumber.cpp.o
-.PHONY : 49_UglyNumber.cpp.o
+347_topKFrequent.cpp.o:
+	$(MAKE) -f CMakeFiles/347_topKFrequent.dir/build.make CMakeFiles/347_topKFrequent.dir/347_topKFrequent.cpp.o
+.PHONY : 347_topKFrequent.cpp.o
 
-49_UglyNumber.i: 49_UglyNumber.cpp.i
+347_topKFrequent.i: 347_topKFrequent.cpp.i
 
-.PHONY : 49_UglyNumber.i
+.PHONY : 347_topKFrequent.i
 
 # target to preprocess a source file
-49_UglyNumber.cpp.i:
-	$(MAKE) -f CMakeFiles/49_UglyNumber.dir/build.make CMakeFiles/49_UglyNumber.dir/49_UglyNumber.cpp.i
-.PHONY : 49_UglyNumber.cpp.i
+347_topKFrequent.cpp.i:
+	$(MAKE) -f CMakeFiles/347_topKFrequent.dir/build.make CMakeFiles/347_topKFrequent.dir/347_topKFrequent.cpp.i
+.PHONY : 347_topKFrequent.cpp.i
 
-49_UglyNumber.s: 49_UglyNumber.cpp.s
+347_topKFrequent.s: 347_topKFrequent.cpp.s
 
-.PHONY : 49_UglyNumber.s
+.PHONY : 347_topKFrequent.s
 
 # target to generate assembly for a file
-49_UglyNumber.cpp.s:
-	$(MAKE) -f CMakeFiles/49_UglyNumber.dir/build.make CMakeFiles/49_UglyNumber.dir/49_UglyNumber.cpp.s
-.PHONY : 49_UglyNumber.cpp.s
+347_topKFrequent.cpp.s:
+	$(MAKE) -f CMakeFiles/347_topKFrequent.dir/build.make CMakeFiles/347_topKFrequent.dir/347_topKFrequent.cpp.s
+.PHONY : 347_topKFrequent.cpp.s
 
 # Help Target
 help:
@@ -157,11 +157,11 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... rebuild_cache"
-	@echo "... 49_UglyNumber"
+	@echo "... 347_topKFrequent"
 	@echo "... edit_cache"
-	@echo "... 49_UglyNumber.o"
-	@echo "... 49_UglyNumber.i"
-	@echo "... 49_UglyNumber.s"
+	@echo "... 347_topKFrequent.o"
+	@echo "... 347_topKFrequent.i"
+	@echo "... 347_topKFrequent.s"
 .PHONY : help
 
 
