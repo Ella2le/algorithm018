@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/22_generateParenthesis.dir/22_generateParenthesis.cpp.o  -o 22_generateParenthesis 

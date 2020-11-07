@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/1356_sortBits.dir/1356_sortBits.cpp.o  -o 1356_sortBits 

@@ -1,0 +1,3 @@
+/home/lewang/algorithm018/week03/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lewang/algorithm018/week03/cmake-build-debug/CMakeFiles/1356_sortBits.dir
+/home/lewang/algorithm018/week03/cmake-build-debug/CMakeFiles/edit_cache.dir
