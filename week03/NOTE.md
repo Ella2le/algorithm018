@@ -82,8 +82,8 @@ N皇后
 
 ### 预习题目：
 
-- [二叉树的层次遍历](http://leetcode-cn.com/problems/binary-tree-level-order-traversal/#/description)
-- [分发饼干](http://leetcode-cn.com/problems/assign-cookies/description/)
+- &radic; [二叉树的层次遍历](http://leetcode-cn.com/problems/binary-tree-level-order-traversal/#/description)
+- &radic; [分发饼干](http://leetcode-cn.com/problems/assign-cookies/description/)
 - &radic; [买卖股票的最佳时机 II](http://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
 - [跳跃游戏](http://leetcode-cn.com/problems/jump-game/)
 - &radic; [x 的平方根](http://leetcode-cn.com/problems/sqrtx/)

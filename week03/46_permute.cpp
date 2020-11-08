@@ -61,7 +61,7 @@ private:
         /*****************
          *res:用来存速返回结果
          *output是递归中间满足要求的一种排列
-         * first 是当前排列的长度
+         *first 是当前排列的长度
         */
         //当前排列满足要求就返回output到res中
         if(first == len) {
