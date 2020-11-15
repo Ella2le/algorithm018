@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/22_generrateParenthesis.dir/22_generrateParenthesis.cpp.o  -o 22_generrateParenthesis 

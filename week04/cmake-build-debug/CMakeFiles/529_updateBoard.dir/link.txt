@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/529_updateBoard.dir/529_updateBoard.cpp.o  -o 529_updateBoard 

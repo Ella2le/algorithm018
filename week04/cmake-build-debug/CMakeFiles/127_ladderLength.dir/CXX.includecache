@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lewang/algorithm018/week04/127_ladderLength.cpp
+iostream
+-
+vector
+-
+string
+-
+cstring
+-
+unordered_set
+-
+unordered_map
+-
+climits
+-
+queue
+-
+bitset
+-
+
