@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/874_robotSim.dir/874_robotSim.cpp.o  -o 874_robotSim 

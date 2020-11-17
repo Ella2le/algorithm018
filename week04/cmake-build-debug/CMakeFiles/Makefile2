@@ -65,39 +65,39 @@ CMAKE_SOURCE_DIR = /home/lewang/algorithm018/week04
 CMAKE_BINARY_DIR = /home/lewang/algorithm018/week04/cmake-build-debug
 
 #=============================================================================
-# Target rules for target CMakeFiles/529_updateBoard.dir
+# Target rules for target CMakeFiles/74_searchMatrix.dir
 
 # All Build rule for target.
-CMakeFiles/529_updateBoard.dir/all:
-	$(MAKE) -f CMakeFiles/529_updateBoard.dir/build.make CMakeFiles/529_updateBoard.dir/depend
-	$(MAKE) -f CMakeFiles/529_updateBoard.dir/build.make CMakeFiles/529_updateBoard.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/lewang/algorithm018/week04/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target 529_updateBoard"
-.PHONY : CMakeFiles/529_updateBoard.dir/all
+CMakeFiles/74_searchMatrix.dir/all:
+	$(MAKE) -f CMakeFiles/74_searchMatrix.dir/build.make CMakeFiles/74_searchMatrix.dir/depend
+	$(MAKE) -f CMakeFiles/74_searchMatrix.dir/build.make CMakeFiles/74_searchMatrix.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/lewang/algorithm018/week04/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target 74_searchMatrix"
+.PHONY : CMakeFiles/74_searchMatrix.dir/all
 
 # Include target in all.
-all: CMakeFiles/529_updateBoard.dir/all
+all: CMakeFiles/74_searchMatrix.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/529_updateBoard.dir/rule: cmake_check_build_system
+CMakeFiles/74_searchMatrix.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/lewang/algorithm018/week04/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/529_updateBoard.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/74_searchMatrix.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/lewang/algorithm018/week04/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/529_updateBoard.dir/rule
+.PHONY : CMakeFiles/74_searchMatrix.dir/rule
 
 # Convenience name for target.
-529_updateBoard: CMakeFiles/529_updateBoard.dir/rule
+74_searchMatrix: CMakeFiles/74_searchMatrix.dir/rule
 
-.PHONY : 529_updateBoard
-
-# clean rule for target.
-CMakeFiles/529_updateBoard.dir/clean:
-	$(MAKE) -f CMakeFiles/529_updateBoard.dir/build.make CMakeFiles/529_updateBoard.dir/clean
-.PHONY : CMakeFiles/529_updateBoard.dir/clean
+.PHONY : 74_searchMatrix
 
 # clean rule for target.
-clean: CMakeFiles/529_updateBoard.dir/clean
+CMakeFiles/74_searchMatrix.dir/clean:
+	$(MAKE) -f CMakeFiles/74_searchMatrix.dir/build.make CMakeFiles/74_searchMatrix.dir/clean
+.PHONY : CMakeFiles/74_searchMatrix.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/74_searchMatrix.dir/clean
 
 .PHONY : clean
 

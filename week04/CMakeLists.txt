@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD_REQUIRED )
 #add_executable (move_zeros  lc-283_move-zeros.cpp)
 #target_link_libraries (move_zeros LINK_PUBLIC week01)
 
-add_executable (529_updateBoard 529_updateBoard.cpp)
+add_executable (74_searchMatrix 74_searchMatrix.cpp)

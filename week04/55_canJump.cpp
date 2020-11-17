@@ -66,7 +66,7 @@ class Solution {
 public:
     bool canJump(vector<int>& nums) {
         int n = nums.size();
-        int ri ghtmost = 0;
+        int rightmost = 0;
         for( int i = 0; i< n; i++) {
             if( i <= rightmost) {
                 rightmost = max(rightmost, i + nums[i]);

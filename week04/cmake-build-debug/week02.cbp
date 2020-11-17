@@ -27,8 +27,8 @@
 					<DistClean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="529_updateBoard">
-				<Option output="/home/lewang/algorithm018/week04/cmake-build-debug/529_updateBoard" prefix_auto="0" extension_auto="0"/>
+			<Target title="74_searchMatrix">
+				<Option output="/home/lewang/algorithm018/week04/cmake-build-debug/74_searchMatrix" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/lewang/algorithm018/week04/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -44,14 +44,14 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week04/cmake-build-debug/Makefile&quot;  VERBOSE=1 529_updateBoard"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week04/cmake-build-debug/Makefile&quot;  VERBOSE=1 74_searchMatrix"/>
 					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week04/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="529_updateBoard/fast">
-				<Option output="/home/lewang/algorithm018/week04/cmake-build-debug/529_updateBoard" prefix_auto="0" extension_auto="0"/>
+			<Target title="74_searchMatrix/fast">
+				<Option output="/home/lewang/algorithm018/week04/cmake-build-debug/74_searchMatrix" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/lewang/algorithm018/week04/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -67,7 +67,7 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week04/cmake-build-debug/Makefile&quot;  VERBOSE=1 529_updateBoard/fast"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week04/cmake-build-debug/Makefile&quot;  VERBOSE=1 74_searchMatrix/fast"/>
 					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week04/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -84,8 +84,8 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/lewang/algorithm018/week04/529_updateBoard.cpp">
-			<Option target="529_updateBoard"/>
+		<Unit filename="/home/lewang/algorithm018/week04/74_searchMatrix.cpp">
+			<Option target="74_searchMatrix"/>
 		</Unit>
 		<Unit filename="/home/lewang/algorithm018/week04/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
