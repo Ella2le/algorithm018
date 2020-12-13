@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/51_N_Queen.dir/51_N_Queen.cpp.o  -o 51_N_Queen 

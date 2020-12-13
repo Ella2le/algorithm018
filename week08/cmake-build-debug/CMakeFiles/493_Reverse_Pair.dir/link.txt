@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/493_Reverse_Pair.dir/493_Reverse_Pair.cpp.o  -o 493_Reverse_Pair 

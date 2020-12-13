@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/52_totalN_Queens.dir/52_totalN_Queens.cpp.o  -o 52_totalN_Queens 

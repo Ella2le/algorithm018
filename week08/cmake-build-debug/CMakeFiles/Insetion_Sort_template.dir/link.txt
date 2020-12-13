@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/Insetion_Sort_template.dir/Insetion_Sort_template.cpp.o  -o Insetion_Sort_template 

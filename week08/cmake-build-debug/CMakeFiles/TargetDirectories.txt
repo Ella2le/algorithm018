@@ -1,0 +1,10 @@
+/home/lewang/algorithm018/week08/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lewang/algorithm018/week08/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lewang/algorithm018/week08/cmake-build-debug/CMakeFiles/242_isAnagram.dir
+/home/lewang/algorithm018/week08/cmake-build-debug/CMakeFiles/493_Reverse_Pair.dir
+/home/lewang/algorithm018/week08/cmake-build-debug/CMakeFiles/52_totalN_Queens.dir
+/home/lewang/algorithm018/week08/cmake-build-debug/CMakeFiles/note.dir
+/home/lewang/algorithm018/week08/cmake-build-debug/CMakeFiles/bubble_sort_template.dir
+/home/lewang/algorithm018/week08/cmake-build-debug/CMakeFiles/51_N_Queen.dir
+/home/lewang/algorithm018/week08/cmake-build-debug/CMakeFiles/Selection_Sort_template.dir
+/home/lewang/algorithm018/week08/cmake-build-debug/CMakeFiles/Insetion_Sort_template.dir
