@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="week09"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/lewang/algorithm018/week09/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/lewang/algorithm018/week09/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/lewang/algorithm018/week09/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="8_myAtoi">
+				<Option output="/home/lewang/algorithm018/week09/cmake-build-debug/8_myAtoi" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lewang/algorithm018/week09/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 8_myAtoi"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="8_myAtoi/fast">
+				<Option output="/home/lewang/algorithm018/week09/cmake-build-debug/8_myAtoi" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lewang/algorithm018/week09/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 8_myAtoi/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="541_reverseStr">
+				<Option output="/home/lewang/algorithm018/week09/cmake-build-debug/541_reverseStr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lewang/algorithm018/week09/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 541_reverseStr"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="541_reverseStr/fast">
+				<Option output="/home/lewang/algorithm018/week09/cmake-build-debug/541_reverseStr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lewang/algorithm018/week09/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 541_reverseStr/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="917_reverseOnlyLetters">
+				<Option output="/home/lewang/algorithm018/week09/cmake-build-debug/917_reverseOnlyLetters" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lewang/algorithm018/week09/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 917_reverseOnlyLetters"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="917_reverseOnlyLetters/fast">
+				<Option output="/home/lewang/algorithm018/week09/cmake-build-debug/917_reverseOnlyLetters" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lewang/algorithm018/week09/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 917_reverseOnlyLetters/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="205_isIosmorphic">
+				<Option output="/home/lewang/algorithm018/week09/cmake-build-debug/205_isIosmorphic" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lewang/algorithm018/week09/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 205_isIosmorphic"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="205_isIosmorphic/fast">
+				<Option output="/home/lewang/algorithm018/week09/cmake-build-debug/205_isIosmorphic" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lewang/algorithm018/week09/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 205_isIosmorphic/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="387_firstuniquechar">
+				<Option output="/home/lewang/algorithm018/week09/cmake-build-debug/387_firstuniquechar" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lewang/algorithm018/week09/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 387_firstuniquechar"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="387_firstuniquechar/fast">
+				<Option output="/home/lewang/algorithm018/week09/cmake-build-debug/387_firstuniquechar" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lewang/algorithm018/week09/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 387_firstuniquechar/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="151_reverseWords">
+				<Option output="/home/lewang/algorithm018/week09/cmake-build-debug/151_reverseWords" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lewang/algorithm018/week09/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 151_reverseWords"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="151_reverseWords/fast">
+				<Option output="/home/lewang/algorithm018/week09/cmake-build-debug/151_reverseWords" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lewang/algorithm018/week09/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 151_reverseWords/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="680_validPalindrome">
+				<Option output="/home/lewang/algorithm018/week09/cmake-build-debug/680_validPalindrome" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lewang/algorithm018/week09/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 680_validPalindrome"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="680_validPalindrome/fast">
+				<Option output="/home/lewang/algorithm018/week09/cmake-build-debug/680_validPalindrome" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lewang/algorithm018/week09/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 680_validPalindrome/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/lewang/algorithm018/week09/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/lewang/algorithm018/week09/151_reverseWords.cpp">
+			<Option target="151_reverseWords"/>
+		</Unit>
+		<Unit filename="/home/lewang/algorithm018/week09/205_isIosmorphic.cpp">
+			<Option target="205_isIosmorphic"/>
+		</Unit>
+		<Unit filename="/home/lewang/algorithm018/week09/387_firstuniquechar.cpp">
+			<Option target="387_firstuniquechar"/>
+		</Unit>
+		<Unit filename="/home/lewang/algorithm018/week09/541_reverseStr.cpp">
+			<Option target="541_reverseStr"/>
+		</Unit>
+		<Unit filename="/home/lewang/algorithm018/week09/680_validPalindrome.cpp">
+			<Option target="680_validPalindrome"/>
+		</Unit>
+		<Unit filename="/home/lewang/algorithm018/week09/8_myAtoi.cpp">
+			<Option target="8_myAtoi"/>
+		</Unit>
+		<Unit filename="/home/lewang/algorithm018/week09/917_reverseOnlyLetters.cpp">
+			<Option target="917_reverseOnlyLetters"/>
+		</Unit>
+		<Unit filename="/home/lewang/algorithm018/week09/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

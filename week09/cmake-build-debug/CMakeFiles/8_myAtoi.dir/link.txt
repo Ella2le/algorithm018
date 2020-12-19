@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/8_myAtoi.dir/8_myAtoi.cpp.o  -o 8_myAtoi 

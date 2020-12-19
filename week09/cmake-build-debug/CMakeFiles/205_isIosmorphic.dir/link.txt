@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/205_isIosmorphic.dir/205_isIosmorphic.cpp.o  -o 205_isIosmorphic 

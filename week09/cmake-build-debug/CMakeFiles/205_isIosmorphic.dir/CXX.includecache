@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lewang/algorithm018/week09/205_isIosmorphic.cpp
+iostream
+-
+map
+-
+string
+-
+unordered_map
+-
+

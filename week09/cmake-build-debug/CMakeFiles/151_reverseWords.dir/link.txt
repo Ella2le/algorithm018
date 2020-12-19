@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/151_reverseWords.dir/151_reverseWords.cpp.o  -o 151_reverseWords 
